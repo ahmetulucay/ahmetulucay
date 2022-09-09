@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-🌱 I'm happy to share my github-works here:
+-🌱 I'm happy to share my github-works here.
   
-   ✨ Sharepoint, Java, Python, Html & CSS, JS, Cloud, Docker, JQuery, react, Testing.
+-✨ I’m currently learning Power Platforms.
 
-   🌱 I’m currently learning Power Platforms.
-
-📫 How to reach me: : 
-linkedin.com/in/ahmet-u-1901ab199/
+📫 linkedin.com/in/ahmet-u-1901ab199/
 <!--
 **GitAhmet/GitAhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
