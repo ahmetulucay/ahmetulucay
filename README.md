@@ -4,7 +4,7 @@
   
 * ✨ I’m currently learning Power Platforms.
 
-linkedin.com/in/ahmet-u-1901ab199/
+https://linkedin.com/in/ahmet-u-1901ab199/
 <!--
 **GitAhmet/GitAhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
