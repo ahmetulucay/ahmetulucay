@@ -2,14 +2,9 @@
 
 🌱 I'm happy to share my github-works here:
   
-✨ Java,
-✨ Python,
-✨ Cloud,
-✨ Docker,
-✨ Sharepoint,
-✨ Html & CSS, Javascript,
-✨ JQuery, react,
-✨ Testing.
+✨ Sharepoint, Java, Python, Html & CSS, Javascript,
+<!-->
+✨ Cloud, Docker, JQuery, react, Testing.
 
 
 📫 How to reach me: : linkedin.com/in/ahmet-u-1901ab199/
