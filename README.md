@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-*🌱 I'm happy to share my github-works here.
+* 🌱 I'm happy to share my github-works here.
   
-*✨ I’m currently learning Power Platforms.
+* ✨ I’m currently learning Power Platforms.
 
 linkedin.com/in/ahmet-u-1901ab199/
 <!--
