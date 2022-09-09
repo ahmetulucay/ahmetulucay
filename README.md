@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🌱 I'm happy to share my github-works here.
+* 🌱 I'm happy to share my works here.
 * ✨ I’m currently learning Power Platforms.
 
 Thanks for visiting!
