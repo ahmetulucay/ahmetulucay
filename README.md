@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 🌱 I'm happy to share my work with you.
-* ✨ I’m currently learning Power Platforms.
+* ✨ I’m currently learning Developing Solutions for Microsoft Azure.
 
 Thanks for visiting!
 
