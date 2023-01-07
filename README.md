@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 🌱 I'm happy to share my work with you.
-* ✨ I’m currently working on Developing Solutions for Microsoft Azure.
+* ✨ I’m currently working on MS Azure, Asp.Net, & C#.
 
 Thanks for visiting!
 
