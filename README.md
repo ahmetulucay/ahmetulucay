@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 🌱 I'm happy to share my work with you.
-* ✨ I’m currently working on Asp.Net Core, C-sharp & Cyber Security.
+* ✨ I’m currently working on Cyber Security, Splunk & .Net Core/C-sharp.
 
 Thanks for visiting!
 
